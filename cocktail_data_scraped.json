@@ -1,0 +1,112 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "recipeCategory": "Drink",
+    "recipeCuisine": "Cocktail",
+    "datePublished": "2017-06-23 09:33:51",
+    "name": "Difford's Fruit Cup No.1 (gin based and Pimm's Cup-like)",
+    "headline": "Difford's Fruit Cup No.1 (gin based and Pimm's Cup-like)",
+    "image": {
+      "@type": "ImageObject",
+      "height": 512,
+      "width": 512,
+      "url": "https://cdn.diffordsguide.com/cocktail/RZ01Zr/square/0/512x512.webp?v=1737701584"
+    },
+    "url": "https://www.diffordsguide.com/cocktails/recipe/2169/diffords-fruit-cup-no1-gin-based-and-pimms-cup-like",
+    "description": "Discover how to make a Difford's Fruit Cup No.1 (gin based and Pimm's Cup-like) using Gin, Orange Cura\u00e7ao (+ 4 more) in 7 easy to follow steps",
+    "author": {
+      "@type": "Person",
+      "name": "Simon Difford",
+      "url": "/encyclopedia/2753/people/simon-difford"
+    },
+    "recipeYield": [
+      "1",
+      "1 cocktail"
+    ],
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.diffordsguide.com/cocktails/recipe/2169/diffords-fruit-cup-no1-gin-based-and-pimms-cup-like"
+    },
+    "totalTime": "PT03M0S",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "213 calories"
+    },
+    "recipeIngredient": [
+      "25 ml Gin",
+      "25 ml Orange Cura\u00e7ao",
+      "25 ml Rosso/sweet vermouth",
+      "2 dash Aromatic bitters",
+      "50 ml Ginger ale",
+      "50 ml Cola"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "name": "Prepare glass",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2169/diffords-fruit-cup-no1-gin-based-and-pimms-cup-like#method-step-1",
+        "text": "Select and pre-chill a COLLINS GLASS."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Prepare garnish",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2169/diffords-fruit-cup-no1-gin-based-and-pimms-cup-like#method-step-2",
+        "text": "Prepare garnish of lemon, orange and strawberry slices, mint sprig and borage in drink."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "POUR",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2169/diffords-fruit-cup-no1-gin-based-and-pimms-cup-like#method-step-3",
+        "text": "POUR all ingredients into glass."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "HALF-FILL",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2169/diffords-fruit-cup-no1-gin-based-and-pimms-cup-like#method-step-4",
+        "text": "Half fill glass with ice."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "ADD",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2169/diffords-fruit-cup-no1-gin-based-and-pimms-cup-like#method-step-5",
+        "text": "Add a citrus slice and a couple of mint leaves from garnish"
+      },
+      {
+        "@type": "HowToStep",
+        "name": "TOP",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2169/diffords-fruit-cup-no1-gin-based-and-pimms-cup-like#method-step-6",
+        "text": "Fill to brim with ice."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Garnish",
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2169/diffords-fruit-cup-no1-gin-based-and-pimms-cup-like#method-step-7",
+        "text": "Finish with rest of garnish."
+      }
+    ],
+    "keywords": [
+      "Aperitivo/aperitif",
+      "Barbeque",
+      "Elevenses/afternoon",
+      "Fruity (e.g. Pornstar Martini)",
+      "Hall of Fame and must know/try",
+      "Long drinks and highballs",
+      "Party",
+      "Summer",
+      "Pimm's Cup"
+    ],
+    "aggregateRating": {
+      "@type": "aggregateRating",
+      "ratingValue": 5,
+      "ratingCount": 114,
+      "worstRating": "1",
+      "bestRating": "5"
+    },
+    "strength_rating_raw": "Strength 6/10",
+    "taste_rating_raw": "Sweet to sour 6/10",
+    "strength_found": true,
+    "taste_found": true,
+    "scraped_url": "https://www.diffordsguide.com/cocktails/recipe/2169/diffords-fruit-cup-no1-gin-based-and-pimms-cup-like",
+    "cocktail_id": "2169",
+    "scrape_timestamp": 
