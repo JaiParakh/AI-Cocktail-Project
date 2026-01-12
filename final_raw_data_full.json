@@ -124069,33 +124069,6 @@
     }
   },
   {
-    "id": "3737",
-    "category": "Drink",
-    "cuisine": "Cocktail",
-    "name": "Night Cap",
-    "url": "https://www.diffordsguide.com/cocktails/recipe/3737/night-cap",
-    "description": "Discover how to make a Night Cap using Brown sugar, Aromatic bitters, Chocolate bitters, Hot water and Cognac (brandy) in 7 easy to follow steps",
-    "ingridients": [
-      "1 cube Brown sugar",
-      "1 dash Aromatic bitters",
-      "8 drop Chocolate bitters",
-      "15 ml Hot water",
-      "60 ml Cognac (brandy)"
-    ],
-    "keywords": [
-      "Night Cap"
-    ],
-    "strength_rating": "Strength 7/10",
-    "taste_rating": "Sweet to sour 7/10",
-    "rating_data": {
-      "@type": "aggregateRating",
-      "ratingValue": "3.5",
-      "ratingCount": 8,
-      "worstRating": "1",
-      "bestRating": "5"
-    }
-  },
-  {
     "id": "9891",
     "category": "Drink",
     "cuisine": "Cocktail",
