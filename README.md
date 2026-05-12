@@ -24,6 +24,8 @@ CocktailAI generates recipes from **user-selected flavor profiles** (e.g., citru
 ---
 
 ## Architecture (AWS)
+![AWS architecture diagram](https://github.com/user-attachments/assets/fae7141d-d2b6-4449-8112-92cf94e31a6d)
+
 **Five-layer asynchronous ecosystem**:
 - **Frontend + API**: Next.js (Vercel) with API routes
 - **Queue**: SQS job queue
